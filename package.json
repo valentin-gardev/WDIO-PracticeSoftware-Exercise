@@ -2,6 +2,7 @@
   "name": "WDIO-PracticeSoftware-Exercise",
   "type": "module",
   "devDependencies": {
+    "@types/mocha": "^10.0.10",
     "@types/node": "^26.4.1",
     "@wdio/cli": "^9.31.5",
     "@wdio/globals": "^9.31.3",
